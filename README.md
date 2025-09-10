@@ -1,10 +1,13 @@
 ### About Me 👋
 
-I'm WangZhiQiang, a programmer who is very interested in open source projects. I mainly use languages like Golang, PHP,
-Node.js and Python for development. I'm passionate about participating in and contributing to open source projects, and
-I enjoy the collaborative process. I like solving challenging problems and writing clean, efficient code. Aside from
-work and study, I also enjoy sharing technical insights through blogs and GitHub. I'm striving to become an excellent
-full-stack developer. If you're also interested in open source, feel free to contact me to discuss and learn together!
+Hi, I’m WangZhiQiang, a professional bug magnet and open-source troublemaker. I speak fluent Golang, PHP, Node.js, and Python—basically whatever language Stack Overflow approves of.
+
+My daily routine is writing code that works… most of the time, contributing to open-source projects, and convincing my computer that I’m the boss. My dream? Become a full-stack wizard who can fix front-end, back-end, and occasionally my own life.
+
+When I’m not debugging or Googling error messages at 2 AM, I blog about tech stuff nobody asked for and scroll GitHub like it’s a social network.
+
+If you like open source, weird code, or just want someone to laugh at your commit messages—hit me up. Let’s break things together and call it learning!
+
 
 💬 You can contact me on [WeChat](https://cdn.jsdelivr.net/gh/chihqiang/chihqiang/cdn/wechat.svg)
 ,  [Twitter](https://twitter.com/chihqiang) or [Email](mailto:zhiqiang2033@gmail.com).
